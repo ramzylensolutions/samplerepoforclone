@@ -1,1 +1,2 @@
 this is sample2.txt
+name = "Ram Mrithyun"
